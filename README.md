@@ -5,7 +5,7 @@ My project is essentially a real-time weather simulation, encompassing various a
 
 ## Motivation
 
-Since the time the final project was introduced to us in class by the Professor, I was quite adamant about creating some kind of a **graphics or data visualization or simulation**. Moreover, due to **Illinois's weather undergoing major fluctuations**, with unusual weather patterns coming forth, such as sunlight, rain and snow all occurring at once, I thought it would be intriguing and exciting to model a weather simulation of my own, with **complete liberty to manipulate different attributes of weather at my disposal**. 
+Since the time the final project was introduced to us in class by the Professor, I was quite adamant about creating some kind of a **graphics or data visualization or simulation**. Moreover, due to **Illinois's weather undergoing major fluctuations**, and unusual weather patterns, I thought it would be intriguing and exciting to model a weather simulation of my own, with **complete liberty to manipulate different attributes of weather**. 
 
 ## Screenshots
 <img width="1440" alt="screen shot 2018-05-02 at 9 07 33 pm" src="https://user-images.githubusercontent.com/31712484/39557902-6a7d9cca-4e50-11e8-827b-7335fbba8a73.png">
