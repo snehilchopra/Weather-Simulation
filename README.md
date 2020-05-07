@@ -1,4 +1,4 @@
-# CS 126 FinalProject
+# CS 126 Final Project
 ##    Project Title
 
 My project is essentially a real-time weather simulation, encompassing various attributes of weather such as wind, rain, thunder, and snow. It is completely extendable in that others can use it as a foundation to work upon.
